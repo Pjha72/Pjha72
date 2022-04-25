@@ -2,6 +2,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjha2002&label=Profile%20views&color=0e75b6&style=flat" alt="pjha2002" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pjha2002" alt="pjha2002" /></a> </p>
+
+- 🌱 I’m currently learning **React, Machine Learning**
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" >
 
 - 📫 How to reach me **pjha2186@gmail.com**
@@ -28,4 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pjha2002&show_icons=true&locale=en&layout=compact" alt="pjha2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pjha2002&show_icons=true&locale=en" alt="pjha2002" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pjha2002&" alt="pjha2002" /></p>
