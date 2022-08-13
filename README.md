@@ -51,7 +51,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br>
 
-#### Bckend
+#### Backend
 <a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/96/mysql-logo.png" alt="SQL" height="42px"/> </a> 
 <a href="" target="_blank"> <img align="left" src="https://img.icons8.com/ios-filled/100/php.png" alt="PHP" height="42px"/> </a> 
 
