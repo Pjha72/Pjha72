@@ -1,41 +1,108 @@
-<h1 align="center">Hi 👋, I'm Pawan Kumar Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>
+  Hey 👋, I'm Pawan Jha!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/pjha2186/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCYHUjUAsUNDkSZtB6OUxlfA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/PawanKu78723417">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img  src="https://komarev.com/ghpvc/?username=pjha2002&style=flat-square&color=blue" alt=""/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pjha2002&label=Profile%20views&color=0e75b6&style=flat" alt="pjha2002" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pjha2002" alt="pjha2002" /></a> </p>
 
-- 🌱 I’m currently learning **React, Machine Learning**
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" >
-
-- 📫 How to reach me **pjha2186@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/pjha2186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pjha2186/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pjha2186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/pjha2186" height="30" width="40" /></a>
-<a href="https://leetcode.com/pjha2186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pjha2186/" height="30" width="40" /></a>
+<br/>
+<br/>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> Bootstrap</a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> C language </a>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> W3school </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> HTML </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">JAVA </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <JavaScript </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> Linux </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> MySql </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> Python </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> C++ </a>
-    <br>
-    <br>
-    <br>
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Web Developer 📱, Machine Learning 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pjha2002&show_icons=true&locale=en&layout=compact" alt="pjha2002" /></p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pjha2002&show_icons=true&locale=en" alt="pjha2002" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pjha2002&" alt="pjha2002" /></p>
+- 🔭 &nbsp; I’m currently working on **Catchy-Beatz**
+- 🤝 &nbsp; I’m looking to collaborate on [Open Source](https://github.com/pjha2002?tab=repositories)
+- 🌱 &nbsp; I’m currently learning MERN Stack; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pjha2002?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pjha2186/)
+- 📝 &nbsp; Checkout my [resume](https://pjha2002.github.io/Pawan_Portfolio/personal.html)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels.
+
+<br>
+
+### 🔨 Languages and Tools:
+
+#### Frontend
+<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/344/css3.png" alt="CSS" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/fluency/96/javascript.png" alt="JS" height="42px"/> </a> 
+<br>
+<br>
+
+#### Bckend
+<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/96/mysql-logo.png" alt="SQL" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/ios-filled/100/php.png" alt="PHP" height="42px"/> </a> 
+
+<br>
+<br>
+
+#### Frame Work
+<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/96/bootstrap.png" alt="BootStrap" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="Tailwind" height="42px"/> </a>
+
+<br>
+<br>
+
+#### Design
+<a href="" target="_blank"> <img align="left" src="https://spotlightbranding.com/wp-content/uploads/2020/09/518-5182949_canva-canva-logo-vector-clipart.jpg" alt="Canva" height="42px"/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
+<br>
+<br>
+
+#### Coding Language
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://www.c++.com" target="_blank"><img align="left" alt="C++" height ="42px" src="https://img.icons8.com/nolan/128/c-plus-plus.png"></a>
+<a href="https://www.c++.com" target="_blank"><img align="left" alt="C" height ="42px" src="https://img.icons8.com/fluency/96/copyright.png"></a>
+<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/fluency/96/javascript.png" alt="JS" height="42px"/> </a> 
+
+<br>
+<br>
+
+#### Hosting Website
+<a href="" target="_blank"> <img align="left" src="https://thelcogroup.com/wp-content/uploads/2015/11/fblogo.png" alt="000webhost" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/96/github--v1.png" alt="GITHUB" height="42px"/> </a>
+
+<br>
+<br>
+<br>
+
+### 📊 Github Stats
+![Pawan github stats](https://github-readme-stats.vercel.app/api?username=pjha2002&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjha2002&layout=compact&theme=vision-friendly-dark)](https://github.com/pjha2002/github-readme-stats)
+<br>
+<br>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pjha2002&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<br>
+
+### 🛠️ My Projects
+<a href="https://pjha2002.github.io/Pawan_Portfolio/personal.html" target="_blank"> <img alt="portfolio" src="https://seeklogo.com/images/A/adobe-portfolio-logo-A289F53AF8-seeklogo.com.png" height="68" align="left"> </a>
+<a href="https://github.com/pjha2002/Anemocheck" target="_blank"> <img alt="Anemo" src="https://sanguina.com/wp-content/uploads/2021/09/How-does-AnemoCheck-Mobile-work.png"  height="68" align="left"> </a>
+<a href="https://pjha2002.github.io/Display-Time-On-Website/" target="_blank"> <img alt="Time" src="https://uxwing.com/wp-content/themes/uxwing/download/time-and-date/on-time-icon.svg" height="68" align="left"> </a>
+<a href="https://pjha2002.github.io/Temperature_Converter/" target="_blank"> <img alt="Temp" src="https://www.svgrepo.com/show/25774/high-temperature.svg" height="68" align="left"> </a>
