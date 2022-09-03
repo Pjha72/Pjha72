@@ -3,7 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/88606641/188284982-6e9c91b2-f7fd-49c1-8d1a-5e4a3af388af.png" width="95%" height="350/>
+  <br>
   <div id="badges">
   <a href="https://www.linkedin.com/in/pjha2186/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,8 +15,9 @@
   <a href="https://twitter.com/PawanKu78723417">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img  src="https://komarev.com/ghpvc/?username=pjha2002&style=flat-square&color=blue" alt="" height="60%"/>
 </div>
-<img  src="https://komarev.com/ghpvc/?username=pjha2002&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 
