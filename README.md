@@ -93,13 +93,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 📊 Github Stats
-![Pawan github stats](https://github-readme-stats.vercel.app/api?username=pjha2002&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjha2002&layout=compact&theme=vision-friendly-dark)](https://github.com/pjha2002/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=pjha2002&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjha2002&layout=compact&theme=vision-friendly-dark)](https://github.com/pjha2002/github-readme-stats" />
 <br>
 <br>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pjha2002&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=pjha2002&theme=dark&background=000000)](https://git.io/streak-stats" />
 
 <br>
 
