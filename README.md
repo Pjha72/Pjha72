@@ -79,12 +79,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 #### Coding Language
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://www.c++.com" target="_blank"><img align="left" alt="C++" height ="42px" src="https://img.icons8.com/nolan/128/c-plus-plus.png"></a>
-<a href="https://www.c++.com" target="_blank"><img align="left" alt="C" height ="42px" src="https://img.icons8.com/fluency/96/copyright.png"></a>
-<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/fluency/96/javascript.png" alt="JS" height="42px"/> </a> 
 
+```
+Python | C++ | C | Java | Javascript
+```
 <br>
 <br>
 
