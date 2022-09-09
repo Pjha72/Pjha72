@@ -45,7 +45,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-
+| Frontend | Backend | FrameWork | UI/UX | Hosting 
+| :--- | ---: | :---- | ---: | :---- | 
+| HTML | SQL | Bootstrape | Figma | Github |
+| CSS | PHP | Tailwind | Canva | Netlify |
+| JS | Strapi | _ | _ | _ |
 #### Frontend
 <a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML" height="42px"/> </a> 
 <a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/344/css3.png" alt="CSS" height="42px"/> </a> 
