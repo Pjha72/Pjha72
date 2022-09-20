@@ -2,7 +2,7 @@
   Hey 👋, I'm Pawan Jha!
 </h1>
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/88606641/188284982-6e9c91b2-f7fd-49c1-8d1a-5e4a3af388af.png" width="95%" height="350/>
+<!--   <img src="https://user-images.githubusercontent.com/88606641/188284982-6e9c91b2-f7fd-49c1-8d1a-5e4a3af388af.png" width="95%" height="350/> -->
   <br>
   <div id="badges">
   <a href="https://www.linkedin.com/in/pjha2186/">
