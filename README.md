@@ -94,8 +94,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 📊 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=pjha2002&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjha2002&layout=compact&theme=vision-friendly-dark)](https://github.com/pjha2002/github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pjha72&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjha72&layout=compact&theme=vision-friendly-dark)](https://github.com/pjha2002/github-readme-stats" />
 <br>
 <br>
 
