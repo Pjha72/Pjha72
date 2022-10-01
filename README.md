@@ -100,7 +100,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### :fire: My Stats :
-<img src="http://github-readme-streak-stats.herokuapp.com?user=pjha2002&theme=dark&background=000000)](https://git.io/streak-stats" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Pjha72&theme=dark&background=000000)](https://git.io/streak-stats" />
 
 <br>
 
