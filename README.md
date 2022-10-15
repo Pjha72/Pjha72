@@ -44,53 +44,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-| Frontend | Backend | FrameWork | UI/UX | Hosting 
-| :--- | ---: | :---- | ---: | :---- | 
-| HTML | SQL | Bootstrape | Figma | Github |
-| CSS | PHP | Tailwind | Canva | Netlify |
-| JS | Strapi | _ | _ | _ |
-#### Frontend
-<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/344/css3.png" alt="CSS" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/fluency/96/javascript.png" alt="JS" height="42px"/> </a> 
-<br>
-<br>
-
-#### Backend
-<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/96/mysql-logo.png" alt="SQL" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/ios-filled/100/php.png" alt="PHP" height="42px"/> </a> 
-
-<br>
-<br>
-
-#### Frame Work
-<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/96/bootstrap.png" alt="BootStrap" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="Tailwind" height="42px"/> </a>
-
-<br>
-<br>
-
-#### Design
-<a href="" target="_blank"> <img align="left" src="https://spotlightbranding.com/wp-content/uploads/2020/09/518-5182949_canva-canva-logo-vector-clipart.jpg" alt="Canva" height="42px"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
-<br>
-<br>
-
-#### Coding Language
-
-```diff
-+ Python | C++ | C | Java | Javascript
-```
-<br>
-<br>
-
-#### Hosting Website
-<a href="" target="_blank"> <img align="left" src="https://thelcogroup.com/wp-content/uploads/2015/11/fblogo.png" alt="000webhost" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/color/96/github--v1.png" alt="GITHUB" height="42px"/> </a>
-
-<br>
-<br>
+| Frontend | Backend | FrameWork | UI/UX | Hosting | Language
+| :--- | ---: | :---- | ---: | :---- | ----:
+| HTML | SQL | Bootstrape | Figma | Github | C++
+| CSS | PHP | Tailwind | Canva | Netlify | Python(Basic)
+| JS | Strapi | _ | _ | _ | Java(Basic)
 <br>
 
 ### 📊 Github Stats
@@ -102,10 +60,3 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### :fire: My Stats :
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Pjha72&theme=dark&background=000000)](https://git.io/streak-stats" />
 
-<br>
-
-### 🛠️ My Projects
-<a href="https://pjha2002.github.io/Pawan_Portfolio/personal.html" target="_blank"> <img alt="portfolio" src="https://seeklogo.com/images/A/adobe-portfolio-logo-A289F53AF8-seeklogo.com.png" height="68" align="left"> </a>
-<a href="https://github.com/pjha2002/Anemocheck" target="_blank"> <img alt="Anemo" src="https://sanguina.com/wp-content/uploads/2021/09/How-does-AnemoCheck-Mobile-work.png"  height="68" align="left"> </a>
-<a href="https://pjha2002.github.io/Display-Time-On-Website/" target="_blank"> <img alt="Time" src="https://uxwing.com/wp-content/themes/uxwing/download/time-and-date/on-time-icon.svg" height="68" align="left"> </a>
-<a href="https://pjha2002.github.io/Temperature_Converter/" target="_blank"> <img alt="Temp" src="https://www.svgrepo.com/show/25774/high-temperature.svg" height="68" align="left"> </a>
