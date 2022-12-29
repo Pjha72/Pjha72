@@ -1,6 +1,7 @@
 <h1>
   Hey 👋, I'm Pawan Jha!
 </h1>
+<img src="https://user-images.githubusercontent.com/88606641/209963625-914f2b70-812c-4adb-b544-b3fb40c43e39.png" width="1000px" height="260px" />
 <div id="header" align="center">
 <!--   <img src="https://user-images.githubusercontent.com/88606641/188284982-6e9c91b2-f7fd-49c1-8d1a-5e4a3af388af.png" width="95%" height="350/> -->
   <br>
