@@ -1,45 +1,29 @@
-<h1>
-  Hey 👋, I'm Pawan Jha!
-</h1>
-<img src="https://user-images.githubusercontent.com/88606641/209963625-914f2b70-812c-4adb-b544-b3fb40c43e39.png" width="1000px" height="260px" />
-<div id="header" align="center">
-<!--   <img src="https://user-images.githubusercontent.com/88606641/188284982-6e9c91b2-f7fd-49c1-8d1a-5e4a3af388af.png" width="95%" height="350/> -->
-  <br>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/pjha2186/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCYHUjUAsUNDkSZtB6OUxlfA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/PawanKu78723417">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <img  src="https://komarev.com/ghpvc/?username=pjha2002&style=flat-square&color=blue" alt="" height="60%"/>
-</div>
-
-</div>
+![MasterHead](https://user-images.githubusercontent.com/88606641/209963625-914f2b70-812c-4adb-b544-b3fb40c43e39.png)
+<h1 align="center">Hey folks🙌, I'm Pawan Jha💫</h1>
+<h3 align="center">🎗Open Source Contributor, ReactJs, Nodejs Developer, Web3 Enthuasiast🎗</h3>
+<h3 align="center">❤Code, Coffee & Community❤️</h3>
+<img align="right" alt="coding" width="350" margintop="15" src="https://user-images.githubusercontent.com/88606641/210141549-43c27f0e-e4b1-4708-a974-52fde3cc8a1c.gif">
 
 
-<br/>
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pjha2002&style=flat-square&color=blue" alt="Pjha72" /> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/pjha2186/" target="blank"><img src="https://img.shields.io/twitter/follow/PawanKu78723417?logo=twitter&style=for-the-badge" alt="PawanKu78723417" /></a> </p> 
+<!-- <img src="https://user-images.githubusercontent.com/88606641/209963625-914f2b70-812c-4adb-b544-b3fb40c43e39.png" width="1000px" height="260px" /> -->
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Web Developer 📱, Machine Learning 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Catchy-Beatz**
-- 🤝 &nbsp; I’m looking to collaborate on [Open Source](https://github.com/pjha2002?tab=repositories)
-- 🌱 &nbsp; I’m currently learning MERN Stack; 
+- 🤝 &nbsp; I’m looking to collaborate on **Community & Open Source Project**
+
+- 🌱 &nbsp; I’m currently learning **MERN, DSA** 
+
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pjha2002?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pjha2186/)
-- 📝 &nbsp; Checkout my [resume](https://pjha2002.github.io/Pawan_Portfolio/personal.html)
+
+- 📫 How to reach me **pjha2186@gmail.com**
+
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels.
 
 <br>
