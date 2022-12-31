@@ -71,11 +71,11 @@
 <br> -->
 
 ### 📊 Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pjha72&theme=radical&show_icons=true&locale=en&layout=compact&exclude_repo=Machine-Learning-Roadmap,Laptop-buddy,MovieWanderer,Recursion3.0-FashionBuddy,ML-Geeks" alt="Pjha72" />
 <img src="https://github-readme-stats.vercel.app/api?username=Pjha72&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjha72&layout=compact&theme=vision-friendly-dark)](https://github.com/pjha2002/github-readme-stats" />
-<br>
-<br>
 
 ### :fire: My Stats :
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Pjha72&theme=dark&background=000000)](https://git.io/streak-stats" />
+
+
 
