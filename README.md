@@ -2,7 +2,7 @@
 <h1 align="center">Hey folks🙌, I'm Pawan Jha💫</h1>
 <h3 align="center">🎗Open Source Contributor, ReactJs, Nodejs Developer, Web3 Enthuasiast🎗</h3>
 <h3 align="center">❤Code, Coffee & Community❤️</h3>
-<img align="right" alt="coding" width="350" margintop="15" src="https://user-images.githubusercontent.com/88606641/210141549-43c27f0e-e4b1-4708-a974-52fde3cc8a1c.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/88606641/210141549-43c27f0e-e4b1-4708-a974-52fde3cc8a1c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjha2002&style=flat-square&color=blue" alt="Pjha72" /> </p>
