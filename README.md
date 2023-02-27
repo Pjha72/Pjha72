@@ -76,3 +76,5 @@
 
 ### :fire: My Stats :
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Pjha72&theme=dark&background=000000)](https://git.io/streak-stats" />
+
+<p><a href="https://www.buymeacoffee.com/pjha2186P"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pjha2186P" /></a></p>
